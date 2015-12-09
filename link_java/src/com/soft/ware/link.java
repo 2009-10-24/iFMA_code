@@ -11,6 +11,9 @@ public class link {
 		System.out.println("nihao");
 
 	        System.out.println("你好");
+	        while(true){
+	        	
+	        }
 		
 
 	}
